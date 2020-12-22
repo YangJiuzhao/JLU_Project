@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLU自动健康打卡", "JLU自动健康打卡\JLU自动健康打卡.csproj", "{F47E06B8-6623-4135-8687-A83DD6F199D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseNetwork", "BaseNetwork\BaseNetwork.csproj", "{77BEC032-CE9D-4336-9D7A-8C25D9855CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47E06B8-6623-4135-8687-A83DD6F199D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47E06B8-6623-4135-8687-A83DD6F199D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47E06B8-6623-4135-8687-A83DD6F199D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47E06B8-6623-4135-8687-A83DD6F199D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BEC032-CE9D-4336-9D7A-8C25D9855CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEC032-CE9D-4336-9D7A-8C25D9855CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BEC032-CE9D-4336-9D7A-8C25D9855CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BEC032-CE9D-4336-9D7A-8C25D9855CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAB7871-D347-4E92-AB6C-E9FC08A541B8}
+	EndGlobalSection
+EndGlobal
